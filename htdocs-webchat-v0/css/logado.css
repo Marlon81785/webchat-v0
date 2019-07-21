@@ -1,0 +1,43 @@
+
+
+div#background {
+	
+	position: absolute;
+	margin: 400px auto auto 300px;
+	padding: 14px 100px 100px 14px;
+	font-style: bold;
+	
+}
+
+
+button#butao{
+	
+	font-size: 40px;
+	font-family: Verdana;
+	position: absolute;
+	padding: 2px 2px 7px 7px;
+	margin: -170px 14px 14px 14px;
+}
+
+
+input#UsrM{
+	font-size: 20px;
+	width: 400px;
+	position: absolute;
+	
+	margin: -240px 14px 14px 14px;
+	padding: 14px 14px 14px 14px;
+}
+
+
+div#partephp{
+  font-family: Times;
+  width: 400px;
+  padding: 14px 14px 14px 14px;
+  margin: -90px 14px 14px 14px;
+  font-size: 40px;
+  
+
+}
+
+

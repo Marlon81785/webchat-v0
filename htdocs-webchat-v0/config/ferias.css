@@ -1,0 +1,13 @@
+div#teste{
+  background: #6C7A89;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 47px;
+  font-family: Arial;
+  font-weight: bold;
+  
+}

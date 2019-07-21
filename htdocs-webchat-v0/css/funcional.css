@@ -1,0 +1,36 @@
+div#background{
+  background-color: #606060;
+  padding: 14px 90px 600px 14px;
+  margin: 14px 14px 14px 14px;
+}
+
+input#Usrf{
+  position: absolute;
+	font-size: 20px;
+	width: 400px;
+	margin: 560px 14px 14px 14px;
+	padding: 14px 150px 14px 14px;
+}
+
+button#butao{
+  position: absolute;
+	width: 200px;
+	margin: 560px 15px 14px 620px;
+	padding: 14px 15px 18px 14px;
+  
+}
+
+div#blocophp{
+  position: absolute;
+  background-color: white;
+  margin: 14px 14px 14px 14px;
+  padding: 14px 14px 14px 10px;
+   
+}
+
+
+table#tabela{
+  position: absolute;
+  background-color: white;
+  margin: 14px 14px 14px 14px;
+  padding: 14px 14px 14px 10px;
